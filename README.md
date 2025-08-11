@@ -80,34 +80,8 @@
 
 ---
 
-## 📈 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalavakuriGanesh&theme=react-dark&hide_border=true" width="100%"/>
-</p>
 
----
 
-## 📌 Pinned Repositories  
-
-<p align="center">
-  <a href="https://github.com/kalavakuriGanesh/Hospital-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalavakuriGanesh&repo=Hospital-Management-System&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/kalavakuriGanesh/Multimodal-NLP-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalavakuriGanesh&repo=Multimodal-NLP-System&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kalavakuriGanesh/Lung-Cancer-Diagnosis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalavakuriGanesh&repo=Lung-Cancer-Diagnosis&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/kalavakuriGanesh/DSA-with-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalavakuriGanesh&repo=DSA-with-Java&theme=tokyonight" />
-  </a>
-</p>
-
----
 
 ## 📫 Connect With Me  
 <p align="center">
