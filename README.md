@@ -56,8 +56,7 @@
 ---
 
 ## 🎓 Certifications  
-- 🐍 **Python** – Udemy  
-- 🗄 **SQL** – CodeChef  
+- 🐍 **Python** – Udemy  - 🗄 **SQL** – CodeChef  
 - 🌐 **Full Stack Web Development** – Udemy  
 
 ---
@@ -70,15 +69,7 @@
 [![SQL Certificate](https://img.shields.io/badge/Certificate-SQL-purple?style=for-the-badge&logo=postgresql)](#)  
 [![Full Stack Web Development](https://img.shields.io/badge/Certificate-Full%20Stack%20Web%20Dev-yellow?style=for-the-badge&logo=javascript)](#)  
 
----
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalavakuriGanesh&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalavakuriGanesh&theme=tokyonight" height="150"/>
-</p>
-
----
 
 
 
