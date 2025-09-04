@@ -17,11 +17,12 @@
 
 ## 🚀 Technical Skills
 
-### 💻 Programming Languages  
+### 💻 Programming Languages 
+<p align="center">
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=database&logoColor=white)  
-
+</p>
 ### 🌐 Web & Frameworks  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
